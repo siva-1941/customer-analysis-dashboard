@@ -44,28 +44,28 @@ https://github.com/siva-1941/customer-analysis-dashboard/raw/main/customer_analy
 ## 📸 Dashboard Preview
 
 ### 📊 Customer Overview
-![Customer Overview](https://github.com/siva-1941/customer-analysis-dashboard/blob/main/Customer_Analysis%201.jpeg)
+![Customer Overview](https://github.com/siva-1941/customer-analysis-dashboard/blob/main/Customer_analysis%20page%201.png)
 
 ### 📦 Customer Analysis
-![Customer Analysis](https://github.com/siva-1941/customer-analysis-dashboard/blob/main/Customer_analysis%202.jpeg)
+![Customer Analysis](https://github.com/siva-1941/customer-analysis-dashboard/blob/main/Customer_analysis%20page%202.png)
 
 ### 🌍 Customer Distribution
-![Customer Distribution](https://github.com/siva-1941/customer-analysis-dashboard/blob/main/Customer_analysis%203.jpeg)
+![Customer Distribution](https://github.com/siva-1941/customer-analysis-dashboard/blob/main/Customer_analysis%20page%203.png)
 
 ### 💰 Profit Analysis
-![Profit Analysis](https://github.com/siva-1941/customer-analysis-dashboard/blob/main/Customer_analysis%204.jpeg)
+![Profit Analysis](https://github.com/siva-1941/customer-analysis-dashboard/blob/main/Customer_analysis%20page%204.png)
 
-### 🔄 Customer RFM Segmentation
-![RFM Segmentation](https://github.com/siva-1941/customer-analysis-dashboard/blob/main/Customer_analysis%205.jpeg)
+### 🔄 RFM Segmentation
+![RFM Segmentation](https://github.com/siva-1941/customer-analysis-dashboard/blob/main/Customer_analysis%20page%205.png)
 
 ### ⏳ Time Intelligence
-![Time Intelligence](https://github.com/siva-1941/customer-analysis-dashboard/blob/main/Customer_analysis%206.jpeg)
+![Time Intelligence](https://github.com/siva-1941/customer-analysis-dashboard/blob/main/Customer_analysis%20page%206.png)
 
 ### 📊 Insights
-![Insights](https://github.com/siva-1941/customer-analysis-dashboard/blob/main/Customer_analysis%207.jpeg)
+![Insights](https://github.com/siva-1941/customer-analysis-dashboard/blob/main/Customer_analysis%20page%207.png)
 
 ### 💡 Business Recommendations
-![Recommendations](https://github.com/siva-1941/customer-analysis-dashboard/blob/main/Customer_analysis%208.jpeg)
+![Business Recommendations](https://github.com/siva-1941/customer-analysis-dashboard/blob/main/Customer_analysis%20page%208.png)
 
 ---
 
